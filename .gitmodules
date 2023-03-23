@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CircularDDM"]
+	path = CircularDDM
+	url = https://github.com/cran/CircularDDM
+	shallow = true
+	registered = true
 [submodule "ggdmc"]
 	path = ggdmc
 	url = https://github.com/yxlin/ggdmc
