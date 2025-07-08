@@ -8,3 +8,6 @@
 [submodule "ggdmc"]
 	path = ggdmc
 	url = https://github.com/yxlin/ggdmc
+[submodule "ggdmcHeaders"]
+	path = ggdmcHeaders
+	url = https://github.com/yxlin/ggdmcheaders
