@@ -11,3 +11,6 @@
 [submodule "ggdmcHeaders"]
 	path = ggdmcHeaders
 	url = https://github.com/yxlin/ggdmcheaders
+[submodule "ggdmcModel"]
+	path = ggdmcModel
+	url = https://github.com/yxlin/ggdmcmodel
