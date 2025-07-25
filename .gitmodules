@@ -14,3 +14,6 @@
 [submodule "ggdmcModel"]
 	path = ggdmcModel
 	url = https://github.com/yxlin/ggdmcmodel
+[submodule "ggdmcPrior"]
+	path = ggdmcPrior
+	url = https://github.com/yxlin/ggdmcprior
