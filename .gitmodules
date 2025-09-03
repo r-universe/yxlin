@@ -5,6 +5,9 @@
 [submodule "CircularDDM"]
 	path = CircularDDM
 	url = https://github.com/cran/CircularDDM
+[submodule "ddModel"]
+	path = ddModel
+	url = https://github.com/yxlin/ddmodel
 [submodule "ggdmc"]
 	path = ggdmc
 	url = https://github.com/yxlin/ggdmc
